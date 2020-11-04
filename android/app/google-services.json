@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "500936732118",
+    "firebase_url": "https://cerealgas-e9004.firebaseio.com",
+    "project_id": "cerealgas-e9004",
+    "storage_bucket": "cerealgas-e9004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500936732118:android:a11d79fc2f8c1858e80877",
+        "android_client_info": {
+          "package_name": "com.cerealgas.gestioneordini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500936732118-7fp56hji3jnhkeig9ushi3k0f1o1rkb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cerealgas.gestioneordini",
+            "certificate_hash": "fcc2d76a6d90c20846fea80dd33dc0a06b41d83b"
+          }
+        },
+        {
+          "client_id": "500936732118-opvbb08s0lmsdk8rgbdnei65i1soo2vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAALcqmOEcdQh6B0CUesu6zRZAr0I0WrIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500936732118-opvbb08s0lmsdk8rgbdnei65i1soo2vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
